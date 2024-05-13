@@ -11,8 +11,8 @@
 ## Course Materials
 
 - **Lessons** - Markdown docs with learning goals, lean content, and links to external resources
-  - See example of a lesson: [lean_lesson_start.ipynb](lessons/lesson_start.ipynb)
-  - See example of a completed lesson: [lean_lesson_start.ipynb](lessons/lesson_done.ipynb)
+  - See example of a lesson: [lesson_template.md](lesson/lesson-template.md)
+  - See example of a completed lesson: [lesson-guideline.md](lessons/lesson-guideline.md)
 
 
 - **Labs** - Markdown docs with learning goals, requirements, and exercise instructions
