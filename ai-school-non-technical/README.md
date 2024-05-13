@@ -2,9 +2,9 @@
 
 ## Course Overview
 
-- **Course Schedule** - Spreadsheet with the course schedule
-  - Course schedule overview: [TODO - ADD]()
-  - Use the following template for the course schedule: [TODO]()
+- **Course Details & Schedule** - Spreadsheet with the course schedule
+  - Course schedule overview: [link](https://docs.google.com/spreadsheets/d/1Fbj80Vjabb9UBrAvC6uQjbGGbgkZ3C5w4i_a7UEEK-Y/edit?usp=sharing)
+  - Use the following template for the course schedule: [link](https://docs.google.com/spreadsheets/d/18POGQ4qFGEoV50T8AX_l45P1fPbqL_OOsn_OI1CFo7w/edit#gid=3876552)
 
 <br>
 
