@@ -25,8 +25,8 @@
   - Upload the recordings to the Student Portal right after the class.
 
 - **Class Slides (mandatory)** - Google Slides with the class content
-  - Class slides example: [TODO]()
-  - Ironhack's slides template: [TODO - link]()
+  - Class slides example: [link](https://docs.google.com/presentation/d/1xt_1ri1d2kCagd5ZJEnb3ReG8f-ySYhHX5yIVoiqsjg/edit?usp=sharing)
+  - Ironhack's slides template: [link](https://docs.google.com/presentation/d/1er4jk53vtGVA-5Q-d6l1lEpsdZtR4noeHWA2orxJxZk/edit?usp=sharing)
   - Upload the slides to the Student Portal before the start of the course.
   
 - **Project Brief** - Markdown doc with the project description and requirements
